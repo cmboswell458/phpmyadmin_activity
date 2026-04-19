@@ -16,3 +16,5 @@ This project demonstrates creating a database, table, and stored procedure using
 The screenshot below shows the successful insertion of data into the table.
 
 ![Database Screenshot](activity_phpmyadmin.png)
+## Author
+Crystal Michelle Boswell
